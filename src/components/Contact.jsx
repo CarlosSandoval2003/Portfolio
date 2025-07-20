@@ -65,7 +65,7 @@ const Contact = () => {
     <Wrapper id="contact">
       <Title>Let's Connect</Title>
       <Description>Feel free to reach out via email or check out my work on GitHub and LinkedIn.</Description>
-      <ProfileImage src="/src/assets/profile-image.jpg" alt="Carlos Sandoval" />
+      <ProfileImage src="/public/profile-image.jpg" alt="Carlos Sandoval" />
       <Email href="mailto:jawicho@outlook.com">jawicho@outlook.com</Email>
       <Icons>
         <a href="https://github.com/CarlosSandoval2003" target="_blank" rel="noopener noreferrer">
