@@ -35,7 +35,7 @@ const Wrapper = styled.section`
   padding: 0 1rem;
   position: relative;
   scroll-snap-align: start;
-  background: url('/public/hero-bg.png') center center / cover no-repeat;
+  background: url('/hero-bg.png') center center / cover no-repeat;
   background-attachment: fixed; // para un efecto más envolvente
   z-index: 0;
   overflow: hidden;
